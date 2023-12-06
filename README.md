@@ -11,7 +11,7 @@ This mini Python script is designed to extract and update player statistics from
 - Filter statistics for specific players.
 
 ## Installation
-To run this script, you will need Python installed on your system. Additionally, the script depends on several external libraries.
+To run this script, you will need Python installed on your system. Additionally, the script depends on a couple external libraries.
 
 1. Clone the repository:
    ```bash
