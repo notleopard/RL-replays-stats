@@ -2,7 +2,7 @@
 # Rocket League Replay Stats Extractor
 
 ## Overview
-This mini Python script is designed to extract and update player statistics from Rocket League replay files. It utilizes the `carball` library to decompile replay files, extracts player statistics, and updates them in a CSV file. This tool is useful if you are trying to track your team stats in rocket league!
+This mini Python script is designed to extract and update player statistics from Rocket League replay files. It uses the `carball` library to decompile replay files, extracts player statistics, and updates them in a CSV file. This tool is useful if you are trying to track your team stats in rocket league!
 
 ## Features
 - Decompile Rocket League replay files.
