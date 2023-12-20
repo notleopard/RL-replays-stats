@@ -21,9 +21,13 @@ To run this script, you will need Python installed on your system. Additionally,
    ```bash
    cd RL-replays-stats
    ```
-3. Install required packages:
+3. Install required packages and versions:
    ```bash
-   pip install pandas
+   pip install pandas==1.0.3
+   pip install numpy==1.18.2
+   pip install protobuf==3.6.1
+   pip install xlrd==1.1.0
+   pip install boxcars-py==0.1.*
    pip install carball
    ```
 
